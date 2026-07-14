@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+venv/
+.venv/
+
+# Build
+dist/
+build/
+
+# Configurações locais
+.env
+.env.*
+!.env.example
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
